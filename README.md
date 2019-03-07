@@ -14,7 +14,7 @@ Speaker:
 - Alessio Iafrate (<a href="https://twitter.com/alessioiafrate" target="_blank">@alessioiafrate</a>) - Microsoft MVP - DotNetAbruzzo
 - Angelo Gino Varrati (<a href="https://twitter.com/angelus_gi" target="_blank">@angelus_gi</a>) - Microsoft MVP - DotNetAbruzzo
 
-Slide
+<a href="https://www.slideshare.net/alessioiafrate96/whats-new-in-visual-studio-2019" target="_blank">Slide</a>
 
 ---
 #### The evolution of .Net Core 
