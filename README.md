@@ -52,7 +52,7 @@ In questa sessione impareremo a creare dei moduli custom aggiuntivi per Visual S
 Speaker: 
 - Luca Congiu (<a href="https://twitter.com/congiuluc" target="_blank">@congiuluc</a>) - DotNetCode.IT
 
-Slide
+<a href="06-How%20to%20create%20custom%20modules%20for%20Visual%20Studio%2FVisualStudioExtensions.pdf" target="_blank">Slide</a>
 
 ---
 #### Esploriamo Visual Studio Code 
@@ -62,6 +62,6 @@ In questa sessione faremo conoscenza del nuovo, leggero e potente editor e su co
 Speaker:
 - Simone Natalini - DotNetCode.IT
 
-Slide
+<a href="07-Esploriamo%20Visual%20Studio%20Code%2FExploring%20VS%20Code.pdf" target="_blank">Slide</a>
 
 ---
