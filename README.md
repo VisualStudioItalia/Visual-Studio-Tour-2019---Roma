@@ -42,7 +42,7 @@ Speaker:
 - Nicolò Carandini (<a href="https://twitter.com/tpcware" target="_blank">@tpcware</a>) - Microsoft MVP - DomusDotNet
 - Giorgio di Nardo (<a href="https://twitter.com/akelitz" target="_blank">@akelitz</a>) - DomusDotNet
 
-Slide
+<a href="https://www.slideshare.net/NicolCarandini/code-review-e-pair-programming-con-visual-studio-live-share" target="_blank">Slide</a>
 
 ---
 #### How to create custom modules for Visual Studio
